@@ -1,7 +1,7 @@
 # portfolio
 azharuddin10.github.io/portfolio
 
-# Business Analyst
+## Business Analyst
 
-## Education
+### Education
 Master's in Business Analytics
